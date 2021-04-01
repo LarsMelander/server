@@ -1,0 +1,2 @@
+		<script src="<%= Routes.static_path(@conn, "/js/client-ledger.js") %>" type="text/javascript"></script>
+		<script src="<%= Routes.static_path(@conn, "/js/elm-ledger.js") %>" type="text/javascript"></script>

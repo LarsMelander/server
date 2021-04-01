@@ -1,0 +1,2 @@
+		<script src="<%= Routes.static_path(@conn, "/js/client-db.js") %>" type="text/javascript"></script>
+		<script src="<%= Routes.static_path(@conn, "/js/elm-db.js") %>" type="text/javascript"></script>
